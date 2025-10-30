@@ -1,1 +1,14 @@
-body 
+body {
+    background-color: #FF0000; /* warna merah */
+    font-family: arial, sans-serif; /* HALO */
+    color: #0000ff; /* warna teks utama (biru) */
+}
+
+.kartu profil {
+    width: 300px;
+    margin: 50px auto; /* 5opx jarak atas/bawah, auto menengahkan kiri/kanan */
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px; /* membuat sudut menjadi melengkung */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
+}
