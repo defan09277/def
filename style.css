@@ -1,16 +1,14 @@
-/* Styling untuk seluruh halaman */
 body {
-    background-color: #FF0000; /* Warna latar belakang: Merah */
-    font-family: Arial, sans-serif; /* Menggunakan font Arial, jika tidak ada pakai sans-serif */
-    color: #0000FF; /* Warna teks utama: Biru */
+    background-color: #FF0000; /* warna merah */
+    font-family: arial, sans-serif; /* HALO */
+    color: #0000FF; /* warna teks utama (biru) */
 }
 
-/* Styling untuk kartu profil (menggunakan tanda hubung untuk penamaan class) */
-.kartu-profil {
+.kartu profil {
     width: 300px;
-    margin: 50px auto; /* Jarak 50px di atas/bawah, 'auto' untuk menengahkan horizontal */
+    margin: 50px auto; /* 5opx jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
     background-color: white;
-    border-radius: 15px; /* Membuat sudut kartu melengkung */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan ringan */
+    border-radius: 15px; /* membuat sudut menjadi melengkung */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
 }
